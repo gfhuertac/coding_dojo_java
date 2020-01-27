@@ -54,7 +54,7 @@ public class BasicJava {
      * Being able to loop through each member of the array is extremely important.
      */
     public void iterate(int[] array) {
-        for(T element: array) {
+        for(int element: array) {
             System.out.println(element);
         }
     }
@@ -80,7 +80,7 @@ public class BasicJava {
                 max = element;
             }
         }
-        return element;
+        return max;
     }
 
 
