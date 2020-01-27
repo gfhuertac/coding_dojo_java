@@ -1,5 +1,3 @@
-package coding_dojo_java.puzzling;
-
 import java.util.Arrays;
 
 /**
